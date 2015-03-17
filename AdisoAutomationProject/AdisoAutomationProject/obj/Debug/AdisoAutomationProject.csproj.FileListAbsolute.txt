@@ -17,3 +17,12 @@ D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\WebDr
 D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\ClosedXML.dll
 D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\ClosedXML.xml
 D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\DocumentFormat.OpenXml.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\Debug\AdisoAutomationProject.exe
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\Debug\AdisoAutomationProject.pdb
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\AdisoAutomationProject.exe
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\AdisoAutomationProject.pdb
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\ClosedXML.xml
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\WebDriver.xml
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\chromedriver.exe
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\log4net.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\log4net.xml
