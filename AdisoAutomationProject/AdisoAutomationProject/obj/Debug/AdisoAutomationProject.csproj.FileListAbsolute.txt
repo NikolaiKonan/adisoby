@@ -1,0 +1,5 @@
+D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\AdisoAutomationProject.exe
+D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\AdisoAutomationProject.pdb
+D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\Debug\AdisoAutomationProject.csprojResolveAssemblyReference.cache
+D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\Debug\AdisoAutomationProject.exe
+D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\Debug\AdisoAutomationProject.pdb
