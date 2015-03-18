@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net;
 using System.Text;
 
 namespace AdisoAutomationProject
@@ -31,7 +32,8 @@ namespace AdisoAutomationProject
 
             driver.Navigate().GoToUrl(@"http://adiso.by/podat-obyavlenie");
             AdvertisementPage ap = new AdvertisementPage(driver);
-            ap.Category = "Все для дома и быта";
+            ap.Category = "Дача, сад, огород";
+            ap.SubCategory = "Парники, теплицы";
             var s = ap.Category;
             server.Kill();
         }
