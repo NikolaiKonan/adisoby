@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdisoAutomationProject", "AdisoAutomationProject\AdisoAutomationProject.csproj", "{2F9D5DF6-E1DA-487C-A865-1F14244A3117}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{AFFE18DC-9197-4DAE-8223-394F5635B7D5}"
@@ -9,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{AFFE18
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{ABF20EE3-C2A0-4ED3-A7B0-EB8EF8EF8EF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +24,10 @@ Global
 		{2F9D5DF6-E1DA-487C-A865-1F14244A3117}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F9D5DF6-E1DA-487C-A865-1F14244A3117}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F9D5DF6-E1DA-487C-A865-1F14244A3117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF20EE3-C2A0-4ED3-A7B0-EB8EF8EF8EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF20EE3-C2A0-4ED3-A7B0-EB8EF8EF8EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF20EE3-C2A0-4ED3-A7B0-EB8EF8EF8EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF20EE3-C2A0-4ED3-A7B0-EB8EF8EF8EF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

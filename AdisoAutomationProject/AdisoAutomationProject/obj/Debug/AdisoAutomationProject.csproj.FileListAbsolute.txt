@@ -21,7 +21,6 @@ D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\De
 D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\Debug\AdisoAutomationProject.pdb
 D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\AdisoAutomationProject.exe
 D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\AdisoAutomationProject.pdb
-D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\ClosedXML.xml
 D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\WebDriver.xml
 D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\chromedriver.exe
 D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\log4net.dll
@@ -46,3 +45,6 @@ D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\adisoby\AdisoAu
 D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\WebDriver.xml
 D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\WebDriver.Support.pdb
 D:\AdisoBy\adisoby\AdisoAutomationProject\AdisoAutomationProject\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\WebDriver.Support.xml
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\obj\Debug\AdisoAutomationProject.csprojResolveAssemblyReference.cache
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\Utils.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\AdisoAutomationProject\bin\Debug\Utils.pdb

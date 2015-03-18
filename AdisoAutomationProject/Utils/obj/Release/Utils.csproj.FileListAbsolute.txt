@@ -1,0 +1,7 @@
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Release\Utils.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Release\Utils.pdb
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Release\ClosedXML.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Release\log4net.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Release\log4net.xml
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\obj\Release\Utils.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\obj\Release\Utils.pdb

@@ -1,0 +1,8 @@
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Debug\Utils.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Debug\Utils.pdb
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Debug\ClosedXML.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\obj\Debug\Utils.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\obj\Debug\Utils.pdb
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Debug\log4net.dll
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\bin\Debug\log4net.xml
+D:\work\adisobyproj\adisoby\AdisoAutomationProject\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache

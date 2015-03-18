@@ -1,6 +1,6 @@
 ﻿using AdisoAutomationProject.Pages;
-using AdisoAutomationProject.Utils;
 using ClosedXML.Excel;
+using log4net.Config;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Remote;
@@ -10,6 +10,8 @@ using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Text;
+using Utils.Excel;
+using Utils.SeleniumServer;
 
 namespace AdisoAutomationProject
 {
@@ -17,25 +19,30 @@ namespace AdisoAutomationProject
     {
         static void Main(string[] args)
         {
-            if (Process.GetProcesses().Select(p => p.ProcessName == "javaw").Count() > 0)
-            {
-                foreach (var process in Process.GetProcessesByName("javaw"))
-                { process.Kill(); }
-            }
-            var server = Process.Start(string.Format("{0}\\selenium_server.jar", Environment.CurrentDirectory));
+           // BasicConfigurator.Configure();
+            log4net.Config.XmlConfigurator.Configure();
+            var server = new Server().StartServer();
+
             ExcelParser ep = new ExcelParser(string.Format("{0}\\1.xlsx", Environment.CurrentDirectory));
             var a = ep.Values;
 
 
-            //IWebDriver driver = new ChromeDriver();
-            IWebDriver driver = new RemoteWebDriver(DesiredCapabilities.HtmlUnitWithJavaScript());
+            IWebDriver driver = new ChromeDriver();
+            //IWebDriver driver = new RemoteWebDriver(DesiredCapabilities.HtmlUnitWithJavaScript());
 
             driver.Navigate().GoToUrl(@"http://adiso.by/podat-obyavlenie");
             AdvertisementPage ap = new AdvertisementPage(driver);
             ap.Category = "Дача, сад, огород";
             ap.SubCategory = "Парники, теплицы";
+            ap.Region = "Витебская область";
+            ap.City = "Витебск";
+            ap.Header = "BLABLABLA";
+            ap.Description = "fdfdfdsfsd \n dfdfsdfs";
+            ap.File = @"D:\photo.jpg";
             var s = ap.Category;
-            server.Kill();
+
+
+            server.StopServer();
         }
     }
 }
